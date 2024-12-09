@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MazenYare/MazenYare/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/sssfasih/sssfasih/output/github-contribution-grid-snake.svg" />
 
 ###
 
